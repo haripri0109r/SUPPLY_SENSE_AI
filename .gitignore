@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches & Test Artifacts
+.pytest_cache/
+.ipynb_checkpoints/
+.coverage
+htmlcov/
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Large archives (generated via create_project_zip.py)
+*.zip
+*.tar.gz
+*.rar
+
+# Redundant duplicate datasets (canonical dataset is kept in data/raw/)
+data/DataCoSupplyChainDataset.csv
+data/SupplySense_cleaned.csv
+
+# Temporary Microsoft Office & lock files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.tmp
+
+# Temporary extraction directories & scratch files
+extracted_assets/
+scratch/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo

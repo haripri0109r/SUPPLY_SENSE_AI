@@ -1,0 +1,6 @@
+shipping_mode_clean,order_volume,total_sales,late_rate,avg_real_days,avg_scheduled_days,late_rate_pct,fulfillment_gap
+Standard Class,21969,4396169.49,0.38071828485593334,4.0,4.0,38.1,0.0
+First Class,6850,1340535.12,0.9890510948905109,2.0,1.0,98.9,1.0
+Second Class,5579,1064005.88,0.7800681125649758,4.0,2.0,78.0,2.0
+Same Day,1369,251990.78,0.5098612125639153,0.5,0.0,51.0,0.5
+Unknown,1,129.99,1.0,2.0,1.0,100.0,1.0
